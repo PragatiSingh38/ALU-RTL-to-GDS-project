@@ -23,5 +23,8 @@ Chip area for module '\common_circuit': 208.544000
 
 Chip area for module '\full_adder': 16.492000
      of which used for sequential elements: 0.000000 (0.00%)
- 
+
+           ---------------==========--------------------------
+ Design area 1525 um^2 52% utilization.  (after GDS)
+
  
