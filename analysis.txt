@@ -1,0 +1,27 @@
+Area report:
+Chip area for top module : 2264.724000
+     of which used for sequential elements: 230.622000 (10.18%)
+              ----------===-------------
+
+Chip area for module '\mulSelector': 279.034000
+     of which used for sequential elements: 85.918000 (30.79%)
+
+Chip area for module '\Airthmatic': 262.542000
+     of which used for sequential elements: 72.352000 (27.56%)
+
+Chip area for module '\Logic': 199.766000
+     of which used for sequential elements: 72.352000 (36.22%)
+
+Chip area for module '\multiplication': 591.318000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+Chip area for module '\division': 251.104000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+Chip area for module '\common_circuit': 208.544000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+Chip area for module '\full_adder': 16.492000
+     of which used for sequential elements: 0.000000 (0.00%)
+ 
+ 
