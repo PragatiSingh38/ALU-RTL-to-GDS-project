@@ -11,4 +11,4 @@ Design Status	GDSII                       error free
 Design & Constraints
 Defined realistic operational constraints including input transition times, clock uncertainty, and output loads to simulate real-world scenarios.
 Executed floorplanning and standard cell placement focusing on optimized area utilization (52% core utilization) to reduce congestion
-
+..
