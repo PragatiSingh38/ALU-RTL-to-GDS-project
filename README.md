@@ -1,7 +1,7 @@
 **8 bit ALU "RTL to GDS"**  
 This project implements an 8-bit Arithmetic Logic Unit (ALU) using an open-source EDA flow.  
-Tools Used:-  Verilog HDL, Yosys (Synthesis), OpenROAD (P&R), OpenSTA(timming).  
-PDK Used:-  Silvaco’s Open-Cell 45nm PDK.
+Tools Used:-  Verilog HDL, Yosys (Synthesis), OpenROAD (P&R), OpenSTA(timming).
+PDK Used:-  Silvaco’s Open-Cell 45nm PDK.    
 **Performance Metrics (PPA)**    
 Metric ________________________________Value_____________________Notes        
 Max Operating Frequency_____________~6.7 GHz_____________Post-STA Verified  
