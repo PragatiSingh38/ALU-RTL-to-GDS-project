@@ -10,8 +10,8 @@ Total Power (Typical)___________________0.23 mW
 Design Status	GDSII ____________________-------________________error free    
 Defined realistic operational constraints including input transition times, clock uncertainty, and output loads to simulate real-world scenarios.
 Executed floorplanning and standard cell placement focusing on optimized area utilization (52% core utilization) to reduce congestion.  
-Design & Con![openROAD_alu_design](https://github.com/user-attachments/assets/05e965f8-0737-452f-ac43-d205ff5bc34f)
 ![full_placement](https://github.com/user-attachments/assets/2b2dbc16-9121-4730-b0a1-2ae65fda4d42)
-straints
+![ALU rtl diagram](https://github.com/user-attachments/assets/91a35306-8da6-4f14-b50e-1f10e8ec744c)
+
 
 
