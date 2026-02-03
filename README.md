@@ -2,7 +2,7 @@
 This project implements an 8-bit Arithmetic Logic Unit (ALU) using an open-source EDA flow.
 Tools Used: Verilog HDL, Yosys (Synthesis), OpenROAD (P&R), OpenSTA(timming).
 PDK Used: Silvaco’s Open-Cell 45nm PDK.
-Performance Metrics (PPA)
+Performance Metrics (PPA)  
 Metric	                        Value	    Notes
 Max Operating Frequency	      ~6.7 GHz	  Post-STA Verified
 Optimized Core Area          	1525 µm²	  Achieved 52% Utilization
